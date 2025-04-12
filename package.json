@@ -1,0 +1,11 @@
+{
+    "name": "mcp-list-files",
+    "version": "1.0.0",
+    "description": "MCP 工具：列出目錄下的檔案",
+    "bin": {
+      "mcp-list-files": "index.js"
+    },
+    "author": "tonywei5149",
+    "license": "MIT"
+  }
+  
